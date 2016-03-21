@@ -1,0 +1,12 @@
+J:\ChauhanInternational\ChauhanInternational\Sales\bin\Release\Sales.exe.config
+J:\ChauhanInternational\ChauhanInternational\Sales\bin\Release\Sales.exe
+J:\ChauhanInternational\ChauhanInternational\Sales\bin\Release\Sales.pdb
+J:\ChauhanInternational\ChauhanInternational\Sales\bin\Release\PdfFileWriter.dll
+J:\ChauhanInternational\ChauhanInternational\Sales\bin\Release\SQLite.NET.dll
+J:\ChauhanInternational\ChauhanInternational\Sales\bin\Release\PdfFileWriter.xml
+J:\ChauhanInternational\ChauhanInternational\Sales\obj\Release\Sales.csprojResolveAssemblyReference.cache
+J:\ChauhanInternational\ChauhanInternational\Sales\obj\Release\Sales.Form1.resources
+J:\ChauhanInternational\ChauhanInternational\Sales\obj\Release\Sales.Properties.Resources.resources
+J:\ChauhanInternational\ChauhanInternational\Sales\obj\Release\Sales.csproj.GenerateResource.Cache
+J:\ChauhanInternational\ChauhanInternational\Sales\obj\Release\Sales.exe
+J:\ChauhanInternational\ChauhanInternational\Sales\obj\Release\Sales.pdb
